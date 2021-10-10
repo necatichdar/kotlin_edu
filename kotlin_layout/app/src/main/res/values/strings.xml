@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Layout</string>
+    <string name="hizmet_bedeli">Hizmet Bedeli</string>
+    <string name="bahsis_tutari">Bahşiş Tutarı: %s</string>
+</resources>
